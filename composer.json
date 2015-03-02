@@ -1,0 +1,19 @@
+{
+    "name": "jp3cki/yii-cli-color",
+    "description": "Adding colors to console output (for Yii Framework 1) [forked from https://github.com/kevinkorb/yii-cli-color]",
+    "version": "1.0.0",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Kevin Korb",
+            "homepage": "https://github.com/kevinkorb"
+        },
+        {
+            "name": "AIZAWA Hina",
+            "email": "hina@bouhime.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "~1.1"
+    }
+}
